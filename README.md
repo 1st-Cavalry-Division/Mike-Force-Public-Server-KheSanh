@@ -4,23 +4,23 @@
 
 ***
 
-  13th June 2023 - (v1.00.04)
-	+ [New] Initial commit of 1st Cavalry Division Khe Sanh Mike Force (Updated to MF v1.00.03)
-	+	[Change] Updated Params
-	+	[Change] Updated Welcome Screen
-	+ [Change] Updated TFAR and CBA Settings
-	+ [Change] Increased player count to 42
-	+ [Change] Balanced team limits
-	+ [Change] Updated stringtable with 1CAV Help
-	+ [Change] Updated various other settings
-	+ [Change] Changed difficulty values
-	+ [Change] Removed Stamina
-	+ [Change] Added admin scripts
-	+ [Change] Some quality of life changes
-	+ [Change] Changed the weight that vehicles can carry
-	+ [Change] Changes specialist limits to better suit player count
-	+ [Change] Added Admin script
-	+ [Fix] Fixed some floating vehicles and objects
+13th June 2023 - (v1.00.04)  
++ [New] Initial commit of 1st Cavalry Division Khe Sanh Mike Force (Updated to MF v1.00.03)  
++ [Change] Updated Params  
++ [Change] Updated Welcome Screen  
++ [Change] Updated TFAR and CBA Settings  
++ [Change] Increased player count to 42  
++ [Change] Balanced team limits  
++ [Change] Updated stringtable with 1CAV Help  
++ [Change] Updated various other settings  
++ [Change] Changed difficulty values  
++ [Change] Removed Stamina  
++ [Change] Added admin scripts  
++ [Change] Some quality of life changes  
++ [Change] Changed the weight that vehicles can carry  
++ [Change] Changes specialist limits to better suit player count  
++ [Change] Added Admin script  
++ [Fix] Fixed some floating vehicles and objects  
 
 ***
 
