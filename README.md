@@ -3,6 +3,15 @@
 [![1Cav-Anniversary-logo](/assets/alt_1stCAV.png)](https://1stcavalry.org)
 
 ***
+14th June 2023 (v1.00.04.01)
++ [Fix] Fixed Stamina and forced walking  
++ [Fix] Fixed some stringtable errors  
++ [Change] Added 105mm Artillery and 81mm Mortars to base  
++ [Change] Added various static weapons at base for transport to FOB's  
++ [Change] Fixed marker bug (I think)  
++ [Change] Fixed some more floating objects  
+
+***
 
 13th June 2023 - (v1.00.04)  
 + [New] Initial commit of 1st Cavalry Division Khe Sanh Mike Force (Updated to MF v1.00.03)  
